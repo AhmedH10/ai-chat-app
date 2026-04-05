@@ -1,4 +1,4 @@
-# ai-chat-app
+# Ahmed's Chat React App
 This app is for a career technical assessment in which I will utitlize React.js as the frontend framework and Express.js as the backend framework with the integration of AI prompt for the end user.
 
 You can try this app online via [StackBlitz](https://stackblitz.com/~/MYApp).
