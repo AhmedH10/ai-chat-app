@@ -24,7 +24,7 @@ app.post("/api/chat-stream", async (req, res) => {
 
   try {
     const stream = await client.chat.completions.create({
-      model: "moonshotai/Kimi-K2-Thinking:fastest",
+      model: "openai/gpt-oss-120b:fastest",
       messages: [{ role: "user", content: prompt }],
       stream: true,
     });
